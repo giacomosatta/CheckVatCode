@@ -1,0 +1,15 @@
+C:\Users\giacomo.satta\Documents\CheckVatCode\bin\Debug\net6.0\CheckVatCode.exe
+C:\Users\giacomo.satta\Documents\CheckVatCode\bin\Debug\net6.0\CheckVatCode.deps.json
+C:\Users\giacomo.satta\Documents\CheckVatCode\bin\Debug\net6.0\CheckVatCode.runtimeconfig.json
+C:\Users\giacomo.satta\Documents\CheckVatCode\bin\Debug\net6.0\CheckVatCode.dll
+C:\Users\giacomo.satta\Documents\CheckVatCode\bin\Debug\net6.0\ref\CheckVatCode.dll
+C:\Users\giacomo.satta\Documents\CheckVatCode\bin\Debug\net6.0\CheckVatCode.pdb
+C:\Users\giacomo.satta\Documents\CheckVatCode\obj\Debug\net6.0\CheckVatCode.csproj.AssemblyReference.cache
+C:\Users\giacomo.satta\Documents\CheckVatCode\obj\Debug\net6.0\CheckVatCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giacomo.satta\Documents\CheckVatCode\obj\Debug\net6.0\CheckVatCode.AssemblyInfoInputs.cache
+C:\Users\giacomo.satta\Documents\CheckVatCode\obj\Debug\net6.0\CheckVatCode.AssemblyInfo.cs
+C:\Users\giacomo.satta\Documents\CheckVatCode\obj\Debug\net6.0\CheckVatCode.csproj.CoreCompileInputs.cache
+C:\Users\giacomo.satta\Documents\CheckVatCode\obj\Debug\net6.0\CheckVatCode.dll
+C:\Users\giacomo.satta\Documents\CheckVatCode\obj\Debug\net6.0\ref\CheckVatCode.dll
+C:\Users\giacomo.satta\Documents\CheckVatCode\obj\Debug\net6.0\CheckVatCode.pdb
+C:\Users\giacomo.satta\Documents\CheckVatCode\obj\Debug\net6.0\CheckVatCode.genruntimeconfig.cache
